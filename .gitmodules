@@ -1,0 +1,3 @@
+[submodule "2017/seminar2/intro_unit_testing/tests/gtest"]
+	path = 2017/seminar2/intro_unit_testing/tests/gtest
+	url = https://github.com/google/googletest.git
