@@ -14,6 +14,12 @@ int main()
 	// std::cout << x + y << std::endl;
 
 	std::ifstream ifs("input.txt");
+	if (!ifs)
+	{
+		std::cerr << "ERROR: cannot open input.txt file" << std::endl;
+		return 1;
+	}
+
 	// const unsigned int BUFSIZE = 64 * 1024;
 	const unsigned int BUFSIZE = 2;
 	std::vector<char> buffer( BUFSIZE );
