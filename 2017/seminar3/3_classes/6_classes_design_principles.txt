@@ -1,5 +1,6 @@
 * RAII
 * invariants (classes vs structs)
+* virtual d-tor if class has subclasses
 * rule of 0, 3, 5, 7
 * =default if required
 * noexcept d-tor, move operators
