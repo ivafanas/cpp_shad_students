@@ -1,11 +1,11 @@
 * RAII
 * invariants (classes vs structs)
 * virtual d-tor if class has subclasses
-* rule of 0, 3, 5, 7
+* rule of 6
 * =default if required
 * noexcept d-tor, move operators
-* const the everything you can
 * noexcept everything that never throws
+* class state. const the everything you can
 * override kw
 * should be a method / a function (rational minimum iface principle)
   * struct vector3d - all to functions (normalize, rotate etc...))
@@ -13,9 +13,12 @@
   * cache (add, get, del, clear? - yes, it would be more efficient)
   * ...
   * you need a __reason__ to make something a method, not a function:
-    * it access private members and cannot be implemented in another way (vector.size(), vector.at())
+    * it access private members and cannot be implemented in another way (vector.size(), vector.at(), vector.push_back())
     * its implementation as method would be faster or simplier (cache.clear() - faster and simplier)
     * it better corresponds to existing methods of a class (vector.empty())
     * maybe something else?
 * protected fields are really a bad idea
-* mutable kw and use-cases
+* mutable kw and use-cases 
+  * caching - binary tree map with memorizing the last request
+  * multithreading synchronization (mutex)
+  * lazy initialization (???)
