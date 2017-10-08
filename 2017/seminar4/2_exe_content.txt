@@ -1,0 +1,86 @@
+exe-file:
+
+	* global constants (immutable memory)
+	* global vars (mutable memory)
+	* code (functions)
+	* ... do not mention references to system libs
+
+show simple example 1:
+
+	int my_function(int x)
+	{
+		return x + 1;
+	}
+
+	const char default_city[] = "Novosibrisk";
+
+	int my_function2(int x)
+	{
+		const char default_country[] = "Russia";
+		return x + 2;
+	}
+
+	double y = 0.5;
+	double z = 0.3;
+
+	int main(void)
+	{
+		double y1 = y;
+		double z1 = z;
+		double *a = new double;
+		delete a;	
+		return 0;
+	}
+
+	
+exe file is linked from object files.
+
+	each .o file has:
+		* defined symbols
+			* exported
+			* not exported
+		* referenced symbols
+
+
+	reader.h
+		int read_int();
+		double read_double();
+
+	reader.cpp
+		int read_int() { ... }
+		double read_double() { ... }
+
+	writer.h
+		void write_int(int);
+		void write_double(double);
+		
+	writer.cpp
+		void write_int(int) { ... }
+		void write_double(double) { ... }
+
+	main.cpp
+		#include "reader.h"
+		#include "writer.h"
+
+		int main(void) {
+			write_int(read_int());
+		}
+
+	1. show content of reader.o, writer.o, main.o
+	2. add extern cont std::string to reader.h, const std::string to reader.cpp and show content
+	3. add const std::string = and one function to writer.cpp (cpp only), show content (read_double)
+
+ways to hide a symbol:
+	* anonymous namespace
+	* static
+	* inline implies static (show example)
+	* class methods inlining (same implies static)
+
+	show problems of static / anonym in headers:
+		* multicompilation
+		* bigger .o files
+		* linker should optimize .o files on linkage)
+	(the same problem is for templates)
+
+
+talk about boost in hometask
