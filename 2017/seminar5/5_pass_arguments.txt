@@ -1,0 +1,29 @@
+```
+f(std::shared_ptr<X> x);
+f(X* x);
+f(const X&), f(X) ...
+```
+
+rules:
+* if you don't deal with ownership, never pass argument by smart pointer
+* if you deal with ownership, pass argument by smart pointer
+* The only case of f(X* x) is when parameter may be not initialized
+   RAW POINTER IS NOT OWNING POINTER BY DEFAULT!!!
+
+
+let students to create examples (at least 3-4 examples per cell)
+
+
+
+
+
+https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#fcall-parameter-passing
+
+| type   |  cheap or impossible to copy | cheap to move       | Expensive to move |
+|        |  int, unique_ptr             | vector, string, map | BIG POD           |
+|--------|------------------------------|---------------------|-------------------|
+| in     |          f(X)                |                 f(const X&)             |
+| out    |          X f()               |     X f()           |      f(X&)        |
+| in-out |                      f(X&)                                             |
+
+let students to create examples (at least 3-4 examples per cell)

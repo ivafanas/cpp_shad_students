@@ -1,0 +1,15 @@
+* std::unique_ptr
+  * just a raw pointer
+  * calls delete in d-tor
+  * no copy, move-only
+  * reset() method
+  * get()   method
+* std::shared_ptr
+  * control block
+  * two pointers
+  * atomic references counter
+  * atomic weak references counter
+  * make_shared optimization
+  * show internal structure of std::shared_ptr<std::string>
+    * case of simple c-tor
+    * case of make_shared

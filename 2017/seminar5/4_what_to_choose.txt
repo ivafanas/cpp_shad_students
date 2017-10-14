@@ -1,0 +1,7 @@
+* Do you really need a pointer with ownership?
+  * No - choose planar object
+  * Yes - use smart pointer
+
+* Do you need to share ownership of an object?
+  * Yes (very rare case) - shared_ptr (+ possible weak pointers to avoid cyclic references)
+  * No - unique_ptr
