@@ -1,0 +1,42 @@
+[!] it is till C++11 [!]
+
+https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#fcall-parameter-passing
+
+| type   |  cheap or impossible to copy | cheap to move       | Expensive to move |
+|        |  int, unique_ptr             | vector, string, map | BIG POD           |
+|--------|------------------------------|---------------------|-------------------|
+| in     |          f(X)                |                 f(const X&)             |
+| out    |          X f()               |     X f()           |      f(X&)        |
+| in-out |                      f(X&)                                             |
+
+let students to create examples (at least 3-4 examples per cell)
+
+factorial(int n);
+sqrt(double x);
+add_figure(std::unique_ptr<Figure>);
+
+is_palindrom(const std::string& s)
+sum(const std::vector<int>& v);
+
+struct ConnectionParams
+{
+    uint32_t ipv4;
+    uint64_t ipv6;
+    uint16_t port;
+    bool use_https;
+    uint16_t timeout_sec;
+    ...
+};
+connect(const ConnectionParams& params);
+
+int factorial(int n);
+double sqrt(double x);
+std::unique_ptr<Figure> create_square(double a);
+
+std::vector<int> make_fib_seq(int n);
+
+void FillConnectionsParams(ConnectionParams& params);
+
+encode_base64_inplace(std::string& content);
+
+[!] it is till C++11 [!]
