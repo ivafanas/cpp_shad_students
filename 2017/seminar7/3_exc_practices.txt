@@ -1,0 +1,19 @@
+* exception is the only correct way to notify an error in constructor
+* exceptions are for error handling
+	* exceptions are not for exiting from loops
+	* exceptions are not for passing values
+* exceptions are to restore after error and continue processing
+	* skip not critical action:
+		* display phone numbers example
+		* display organizations in building example
+	* fallback:
+		* memory-consuming algorithm example
+		* search failed example (null screen)
+		* open document in MsWord (err msg)
+	* fail on critical action:
+		* memory allocation on game start
+		* incorrect command in text interpretator
+* exceptions are the part of a contract
+* global try-catch
+	* show example (cannot restore, but fails gracefully)
+* custom heirarchy (?)
