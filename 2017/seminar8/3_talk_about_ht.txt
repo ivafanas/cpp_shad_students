@@ -1,0 +1,3 @@
+show quick-bench.com, how it works, less is better
+describe task, show code
+talk about requirements
