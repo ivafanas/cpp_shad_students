@@ -1,0 +1,5 @@
+- function call parameters
+	- show stack with std::string parameter by value
+	- show stack with std::string parameter by reference
+	- show stack with int parameter by reference
+	- show stack with int parameter by value

@@ -1,0 +1,6 @@
+1. show xcode
+2. tell about symbols stripping and debug symbols
+3. show profile instruments
+4. show how to profile on gcc
+5. show instruction for msvs
+6. ask them about memory model (caching, registers etc.)
