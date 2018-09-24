@@ -1,6 +1,6 @@
 Talk about:
 1. function contracts:
-	* what it is
+	* why
 	* examples
 		double sqrt(double x);
 		bool binary_search(int *arr, int n, int value);

@@ -11,12 +11,12 @@ int main()
 
 	int sum = 0;
 	int x = 0;
-	while (fscanf(f, "%i", &x) != EOF)
+	while (std::fscanf(f, "%i", &x) != EOF)
 		sum += x;
 
 	std::printf("sum = %i\n", sum);
 
-	fclose(f);
+	std::fclose(f);
 
 	return 0;
 }
