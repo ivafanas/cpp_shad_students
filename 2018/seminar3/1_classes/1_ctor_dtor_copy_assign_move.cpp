@@ -94,7 +94,6 @@ String::String(String&& rhs)
 
 // spoiler: rhs is broken
 
-// implementation 1
 String::String(String&& rhs)
 {
 	s_ = rhs.s_;
@@ -104,15 +103,6 @@ String::String(String&& rhs)
 	rhs.s_[0] = 0;
 	rhs.l_ = 0;
 }
-
-// implementation 2
-String::String(String&& rhs)
-{
-	std::swap(s_, rhs.s_);
-	std::swap(l_, rhs.l_);
-}
-
-// which implementation is better and why?
 
 String& String::operator =(const String& rhs)
 {
