@@ -1,56 +1,67 @@
 #include <iostream>
 
 
-class M1
+class Name
 {
 public:
-	M1() { std::cout << "M1 "; }
-	~M1() { std::cout << "~M1 "; }
+	Name() { std::cout << "Name "; }
+	~Name() { std::cout << "~Name "; }
 };
 
-class M2
+class Brain
 {
 public:
-	M2() { std::cout << "M2 "; }
-	~M2() { std::cout << "~M2 "; }
+	Brain() { std::cout << "Brain "; }
+	~Brain() { std::cout << "~Brain "; }
 };
 
-class M3
+class Leg
 {
 public:
-	M3() { std::cout << "M3 "; }
-	~M3() { std::cout << "~M3 "; }
+	Leg() { std::cout << "Leg "; }
+	~Leg() { std::cout << "~Leg "; }
 };
 
-class A
+class Tail
 {
 public:
-	A() { std::cout << "A "; }
-	~A() { std::cout << "~A "; }
+	Tail() { std::cout << "Tail "; }
+	~Tail() { std::cout << "~Tail "; }
+};
+
+class Animal
+{
+public:
+	Animal() { std::cout << "Animal "; }
+	~Animal() { std::cout << "~Animal "; }
 
 private:
-	M1 m1_;
-	M2 m2_;
+	Brain brain_;
+	Name name_;
 };
 
-class B : public A
+class Cat : public Animal
 {
 public:
-	B() { std::cout << "B "; }
-	~B() { std::cout << "~B "; }
+	Cat() { std::cout << "Cat "; }
+	~Cat() { std::cout << "~Cat "; }
 
 private:
-	M3 m3_;
+	Leg l1_;
+	Leg l2_;
+	Leg l3_;
+	Leg l4_;
+	Tail tail_;
 };
 
 
 // show this later
-// A a;
+// Animal animal;
 
 int main()
 {
 	std::cout << "hello!" << std::endl;
-	B b;
+	Cat cat;
 	std::cout << std::endl << "goodbye!" << std::endl;
 	return 0;
 }
