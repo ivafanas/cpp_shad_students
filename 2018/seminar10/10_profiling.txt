@@ -1,0 +1,3 @@
+1. show how to profile code (xcode / msvs / g++)
+2. tell about symbols stripping and debug symbols
+3. tell about memory model (caching, registers etc.)
