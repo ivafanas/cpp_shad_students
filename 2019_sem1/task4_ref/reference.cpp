@@ -12,6 +12,7 @@
 
 namespace ref
 {
+    __attribute__((noinline))
     std::string get_search_string()
     {
         std::string rv = "50";
@@ -63,6 +64,7 @@ namespace ref
     using OrgPtr = std::shared_ptr<Org>;
     using Orgs = std::vector<OrgPtr>;
 
+    __attribute__((noinline))
     Orgs gen_data()
     {
         return {
@@ -110,6 +112,7 @@ namespace ref
         return raw_phone.find(raw_request) != std::string::npos;
     }
 
+    __attribute__((noinline))
     std::string search_by_phone(Orgs orgs, std::string request)
     {
         std::string rv;
@@ -127,6 +130,7 @@ namespace ref
         return rv;
     }
 
+    __attribute__((noinline))
     std::string run()
     {
         const auto orgs = gen_data();
