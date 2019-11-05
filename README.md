@@ -41,6 +41,8 @@ Feel free to use it as you wish.
 * [fluentcpp](https://www.fluentcpp.com/)
 * [simplify c++](https://arne-mertz.de)
 * [foonathan::blog()](https://foonathan.net/index.html)
+* [vector-of-bool](https://vector-of-bool.github.io/)
+* [travisdown](https://travisdowns.github.io/)
 
 ### Конференции
 
