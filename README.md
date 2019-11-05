@@ -2,6 +2,11 @@ Sources from C++ CS/SHAD lessons.
 
 Feel free to use it as you wish.
 
+### Документация
+
+* [c++ reference](https://en.cppreference.com/w/)
+* [compiler support](https://en.cppreference.com/w/cpp/compiler_support)
+
 ### Книги
 
 Основы
