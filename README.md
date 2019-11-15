@@ -48,6 +48,6 @@ Feel free to use it as you wish.
 
 * [CppCon](https://www.youtube.com/user/CppCon). Топовая конференция по С++. Можно (нужно) смотреть записи докладов на ютуб.
 * [Cpp Russia](http://cpp-russia.ru/). Топовая российская конференция по С++ с неплохим уровнем докладов.
-* Cpp Siberia - локальный филиал Cpp Russia в Новосибирске.
+* [Cpp Siberia](https://siberia-2020.cppug.ru/) - локальный филиал Cpp Russia в Новосибирске.
 * [C++ now](http://cppnow.org/) / [boostcon](https://www.youtube.com/user/BoostCon/playlists)
 
