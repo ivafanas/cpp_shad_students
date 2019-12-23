@@ -51,3 +51,24 @@ Feel free to use it as you wish.
 * [Cpp Siberia](https://siberia-2020.cppug.ru/) - локальный филиал Cpp Russia в Новосибирске.
 * [C++ now](http://cppnow.org/) / [boostcon](https://www.youtube.com/user/BoostCon/playlists)
 
+### Видеозаписи лекций
+
+<details>
+<summary>2019 осень</summary>
+<p>
+
+* Лекция 1. Знакомство. Ввод-вывод. Командная строка. Компиляция. [1](https://youtu.be/Y_BlKsv1r7E), [2](https://youtu.be/PSDXKu4rNdI)
+* Лекция 2. Функции. Чтение из файла, cmake, unit-тесты. [1](https://youtu.be/eqDL64IImbs), [2](https://youtu.be/Tu2RZzfobAo)
+* Лекция 3. Классы. Начало. [1](https://youtu.be/6cqZ2j-bYmY), [2](https://youtu.be/ZSH-Gt-1I7o)
+* Лекция 4. Классы. Продолжение. [1](https://youtu.be/e4JC6pxWV3M), [2](https://youtu.be/H3Fcb1-cGsk)
+* Лекция 5. Шаблоны. [1](https://youtu.be/VeN8QtsRpY0), [2](https://youtu.be/UtKV-fYCiCA)
+* Лекция 6. Контейнеры и итераторы. [1](https://youtu.be/H3QcV60QXZA), [2](https://youtu.be/utvwkaPI2as)
+* Лекция 7. Исключения. [1](https://youtu.be/6aH255s2kKA), [2](https://youtu.be/gM8YRCYrGgE)
+* Лекция 8. Умные указатели. Передача аргументов в функцию. RVO / NRVO / copy elision. [1](https://youtu.be/MAdafwgnr9k), [2](https://youtu.be/2_BE2rw0EY8)
+* Лекция 9. Техники оптимизации. [1](https://youtu.be/79FcUKY4-PU), [2](https://youtu.be/oZ00R0aF1JE)
+* Лекция 10. Техники оптимизации. [1](https://youtu.be/rMPmJENMarQ), [2](https://youtu.be/M8aOj39c_DI)
+* Лекция 11. Алгоритмы и лямбды. [1](https://youtu.be/mK_VDUgG09Y), [2](https://youtu.be/54-V8M9W2RU)
+* Лекция 12. Компиляция и линковка. Undefined behavior. [1](https://youtu.be/fjpKZqRk5XI), [2](https://youtu.be/W1hKm8SDpQE)
+
+</p>
+</details>
