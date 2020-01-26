@@ -9,7 +9,6 @@
 // TODO: refactor SalesmanWidget in order to satisfy software requirement
 
 SalesmanWidget::SalesmanWidget()
-    : QWidget(/*parent*/nullptr)
 {
     auto* ver_layout = new QVBoxLayout;
     {
