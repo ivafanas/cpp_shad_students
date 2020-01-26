@@ -23,7 +23,7 @@ SalesmanWidget::SalesmanWidget()
         }
         ver_layout->addLayout(hor_layout);
 
-        // cities count setting
+        // thread count setting
         hor_layout = new QHBoxLayout;
         {
             hor_layout->addWidget(new QLabel("thread count: "));
