@@ -3,6 +3,7 @@
 #include <QLabel>
 #include <QLayout>
 #include <QLineEdit>
+#include <QMessageBox>
 #include <QPushButton>
 #include <QTimer>
 
@@ -43,6 +44,10 @@ SalesmanWidget::SalesmanWidget()
             connect(stop_button, &QPushButton::clicked, this, &SalesmanWidget::on_stop);
             hor_layout->addWidget(stop_button);
 
+            auto* dump_button = new QPushButton("dump");
+            connect(dump_button, &QPushButton::clicked, this, &SalesmanWidget::on_dump);
+            hor_layout->addWidget(dump_button);
+
             hor_layout->addStretch(2);
         }
         ver_layout->addLayout(hor_layout);
@@ -65,6 +70,19 @@ SalesmanWidget::SalesmanWidget()
         }
         ver_layout->addLayout(hor_layout);
 
+        ver_layout->addSpacing(10);
+
+        // threads statistics
+        for (int i = 0; i != 6; ++i)
+        {
+            const auto text = QString("thread %1:    %2\% completed, solution = %3")
+                .arg(i)
+                .arg((i + 1) * 10)
+                .arg(42 + i);
+            ver_layout->addWidget(new QLabel(text));
+        }
+
+        // for ui flexibility
         ver_layout->addStretch(2);
     }
     setLayout(ver_layout);
@@ -98,5 +116,11 @@ void SalesmanWidget::on_progress()
     static int calls_count = 0;
     ++calls_count;
     progress_status_label->setText(QString("call %1").arg(calls_count));
+}
+
+void SalesmanWidget::on_dump()
+{
+    // TODO: dump the latest result
+    QMessageBox::warning(this, "dump", "dumping model to a model.txt");
 }
 
