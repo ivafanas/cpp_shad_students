@@ -54,7 +54,7 @@ Feel free to use it as you wish.
 ### Видеозаписи лекций
 
 <details>
-<summary>2019 осень</summary>
+<summary>2019 осень (сем. 1)</summary>
 <p>
 
 * Лекция 1. Знакомство. Ввод-вывод. Командная строка. Компиляция. [1](https://youtu.be/Y_BlKsv1r7E), [2](https://youtu.be/PSDXKu4rNdI)
@@ -72,3 +72,13 @@ Feel free to use it as you wish.
 
 </p>
 </details>
+
+<details>
+<summary>2020 весна (сем. 2)</summary>
+<p>
+
+* Лекция 1. Многопоточность. Введение. [1](https://youtu.be/HxBcjKlqAYk), [2](https://youtu.be/NuH5SB14tHs)
+
+</p>
+</details>
+
