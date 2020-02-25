@@ -78,6 +78,7 @@ Feel free to use it as you wish.
 <p>
 
 * Лекция 1. Многопоточность. Введение. [1](https://youtu.be/HxBcjKlqAYk), [2](https://youtu.be/NuH5SB14tHs)
+* Лекция 2. Многопоточность. Продолжение. [1](https://youtu.be/hqU8AjZaC5Q), [2](https://youtu.be/MurPt8uNpVo)
 
 </p>
 </details>
