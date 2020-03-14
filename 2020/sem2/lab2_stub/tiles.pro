@@ -16,6 +16,8 @@ SOURCES = \
 # Qt internals
 #
 
+CONFIG += c++14
+
 # .o files path
 OBJECTS_DIR = tmp/obj
 
