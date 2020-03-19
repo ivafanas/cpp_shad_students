@@ -80,6 +80,7 @@ Feel free to use it as you wish.
 * Лекция 1. Многопоточность. Введение. [1](https://youtu.be/HxBcjKlqAYk), [2](https://youtu.be/NuH5SB14tHs)
 * Лекция 2. Многопоточность. Продолжение. [1](https://youtu.be/hqU8AjZaC5Q), [2](https://youtu.be/MurPt8uNpVo)
 * Лекция 3. Многопоточность. Продвинутый материал 1. [1](https://youtu.be/1CBFYsTXxX0), [2](https://youtu.be/2j40v1fKlOQ)
+* Лекция 4. Многопоточность. Продвинутый материал 2. [1](https://youtu.be/oYUepciMjEY), [2](https://youtu.be/PyjfZjGKAzM)
 
 </p>
 </details>
