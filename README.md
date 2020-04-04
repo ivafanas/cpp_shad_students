@@ -82,6 +82,7 @@ Feel free to use it as you wish.
 * Лекция 3. Многопоточность. Продвинутый материал 1. [1](https://youtu.be/1CBFYsTXxX0), [2](https://youtu.be/2j40v1fKlOQ)
 * Лекция 4. Многопоточность. Продвинутый материал 2. [1](https://youtu.be/oYUepciMjEY), [2](https://youtu.be/PyjfZjGKAzM)
 * Лекция 5. Move-семантика. [1](https://youtu.be/Q1zzhYoa2mY), [2](https://youtu.be/bsIc5v4jLYg)
+* Лекция 6. Advanced templates. [1](https://youtu.be/YkNBzR-kqb8), [2](https://youtu.be/IL_Wy3n1kSM)
 
 </p>
 </details>
