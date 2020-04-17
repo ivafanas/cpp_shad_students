@@ -84,6 +84,7 @@ Feel free to use it as you wish.
 * Лекция 5. Move-семантика. [1](https://youtu.be/Q1zzhYoa2mY), [2](https://youtu.be/bsIc5v4jLYg)
 * Лекция 6. Advanced templates. [1](https://youtu.be/YkNBzR-kqb8), [2](https://youtu.be/IL_Wy3n1kSM)
 * Лекция 7. Compile-time. [1](https://youtu.be/NKXJIqFgHmY), [2](https://youtu.be/_Arr0gvfQhY)
+* Лекция 8. Ranges. [1](https://youtu.be/FJHxeM_Fjtk), [2](https://youtu.be/nQHJclbrbO4)
 
 </p>
 </details>
