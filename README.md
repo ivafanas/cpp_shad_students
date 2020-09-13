@@ -90,3 +90,12 @@ Feel free to use it as you wish.
 </p>
 </details>
 
+<details>
+<summary>2020 осень (сем. 1)</summary>
+<p>
+
+* Лекция 1. Знакомство. Ввод-вывод. Командная строка. Компиляция. [1](https://youtu.be/yeTEA38PnJ4), [2](https://youtu.be/t0LJ7Bm66pk)
+
+</p>
+</details>
+
