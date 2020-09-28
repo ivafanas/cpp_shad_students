@@ -96,6 +96,7 @@ Feel free to use it as you wish.
 
 * Лекция 1. Знакомство. Ввод-вывод. Командная строка. Компиляция. [1](https://youtu.be/yeTEA38PnJ4), [2](https://youtu.be/t0LJ7Bm66pk)
 * Лекция 2. Функции. Заголовочные файлы. Чтение из файла. CMake. Юнит-тесты. [1](https://youtu.be/rhvk4juw_iQ), [2](https://youtu.be/wpBfibqAwx0)
+* Лекция 3. Классы. Начало. [1](https://youtu.be/8TgE7hMu_aA), [2](https://youtu.be/4rXZFUVshHw)
 
 </p>
 </details>
