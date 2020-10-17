@@ -99,6 +99,7 @@ Feel free to use it as you wish.
 * Лекция 3. Классы. Начало. [1](https://youtu.be/8TgE7hMu_aA), [2](https://youtu.be/4rXZFUVshHw)
 * Лекция 4. Классы. Продолжение. [1](https://youtu.be/RjvArKtXlhQ), [2](https://youtu.be/Vg43iOwKR1I)
 * Лекция 5. Шаблоны. [1](https://youtu.be/40Za8fH0GDQ), [2](https://youtu.be/-Qf1mljSlZM)
+* Лекция 6. Контейнеры и итераторы. [1](https://youtu.be/Reh4fkTlO5c), [2](https://youtu.be/onCmPY5O6wU).
 
 </p>
 </details>
