@@ -8,12 +8,12 @@ project(polynomial)
 #
 add_library(polynomiallib INTERFACE)
 
-target_include_directories(polynomiallib INTERFACE src/polynomiallib)
+target_include_directories(polynomiallib INTERFACE
+    "${PROJECT_SOURCE_DIR}/src/polynomiallib")
 
 # setup sources to display in IDE (optional)
-set(polynomiallib_header_files
-   ${CMAKE_CURRENT_SOURCE_DIR}/src/polynomiallib/polynomial.h)
-target_sources(polynomiallib INTERFACE "$<BUILD_INTERFACE:${polynomiallib_header_files}>")
+target_sources(polynomiallib INTERFACE
+    "${PROJECT_SOURCE_DIR}/src/polynomiallib/polynomial.h")
 
 
 #
@@ -27,6 +27,7 @@ set_target_properties(polynomial PROPERTIES
                       CXX_EXTENSIONS NO)
 
 add_dependencies(polynomial polynomiallib)
+target_link_libraries(polynomial polynomiallib)
 
 
 #
@@ -71,5 +72,5 @@ target_include_directories(polynomial_unittests PRIVATE
                            "${CMAKE_CURRENT_BINARY_DIR}/googletest-src/include")
 
 add_dependencies(polynomial_unittests polynomiallib)
-target_link_libraries(polynomial_unittests gtest_main)
+target_link_libraries(polynomial_unittests polynomiallib gtest_main)
 
