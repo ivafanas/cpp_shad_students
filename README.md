@@ -100,6 +100,8 @@ Feel free to use it as you wish.
 * Лекция 4. Классы. Продолжение. [1](https://youtu.be/RjvArKtXlhQ), [2](https://youtu.be/Vg43iOwKR1I)
 * Лекция 5. Шаблоны. [1](https://youtu.be/40Za8fH0GDQ), [2](https://youtu.be/-Qf1mljSlZM)
 * Лекция 6. Контейнеры и итераторы. [1](https://youtu.be/Reh4fkTlO5c), [2](https://youtu.be/onCmPY5O6wU).
+* Лекция 7. Исключения. [1](https://youtu.be/ua0B_XjFS2c), [2](https://youtu.be/jrC1QX4UAxA)
+* Лекция 8. Умные указатели. [1](https://youtu.be/4mx-_FfB1-E), [2](https://youtu.be/R-jhmd_G8Pg)
 
 </p>
 </details>
