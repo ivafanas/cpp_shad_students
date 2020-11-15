@@ -103,6 +103,7 @@ Feel free to use it as you wish.
 * Лекция 7. Исключения. [1](https://youtu.be/ua0B_XjFS2c), [2](https://youtu.be/jrC1QX4UAxA)
 * Лекция 8. Умные указатели. [1](https://youtu.be/4mx-_FfB1-E), [2](https://youtu.be/R-jhmd_G8Pg)
 * Лекция 9. Агрументы. RVO / NRVO / copy elision. [1](https://youtu.be/RNzkXY7fg64), [2](https://youtu.be/HhJhMh8Luow)
+* Лекция 10. Алгоритмы и лямбды. [1](https://youtu.be/ksOUfRLUUvA), [2](https://youtu.be/oWRirPJuoeI)
 
 </p>
 </details>
