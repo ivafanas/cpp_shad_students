@@ -104,6 +104,7 @@ Feel free to use it as you wish.
 * Лекция 8. Умные указатели. [1](https://youtu.be/4mx-_FfB1-E), [2](https://youtu.be/R-jhmd_G8Pg)
 * Лекция 9. Агрументы. RVO / NRVO / copy elision. [1](https://youtu.be/RNzkXY7fg64), [2](https://youtu.be/HhJhMh8Luow)
 * Лекция 10. Алгоритмы и лямбды. [1](https://youtu.be/ksOUfRLUUvA), [2](https://youtu.be/oWRirPJuoeI)
+* Лекция 11. Техники оптимизации. [1](https://youtu.be/1DjPpmaJGsw), [2](https://youtu.be/f-anWVehTl0)
 
 </p>
 </details>
