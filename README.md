@@ -105,6 +105,7 @@ Feel free to use it as you wish.
 * Лекция 9. Агрументы. RVO / NRVO / copy elision. [1](https://youtu.be/RNzkXY7fg64), [2](https://youtu.be/HhJhMh8Luow)
 * Лекция 10. Алгоритмы и лямбды. [1](https://youtu.be/ksOUfRLUUvA), [2](https://youtu.be/oWRirPJuoeI)
 * Лекция 11. Техники оптимизации. [1](https://youtu.be/1DjPpmaJGsw), [2](https://youtu.be/f-anWVehTl0)
+* Лекция 12. Профилировка. Модель физической памяти. [1](https://youtu.be/vJcvvrMWyv4), [2](https://youtu.be/eqcp3GTqUS0)
 
 </p>
 </details>
