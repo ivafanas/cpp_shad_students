@@ -106,6 +106,7 @@ Feel free to use it as you wish.
 * Лекция 10. Алгоритмы и лямбды. [1](https://youtu.be/ksOUfRLUUvA), [2](https://youtu.be/oWRirPJuoeI)
 * Лекция 11. Техники оптимизации. [1](https://youtu.be/1DjPpmaJGsw), [2](https://youtu.be/f-anWVehTl0)
 * Лекция 12. Профилировка. Модель физической памяти. [1](https://youtu.be/vJcvvrMWyv4), [2](https://youtu.be/eqcp3GTqUS0)
+* Лекция 13. Компиляция и линковка. [1](https://youtu.be/zq0z7HRQKEM), [2](https://youtu.be/7chdr35ltyU)
 
 </p>
 </details>
