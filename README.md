@@ -107,6 +107,7 @@ Feel free to use it as you wish.
 * Лекция 11. Техники оптимизации. [1](https://youtu.be/1DjPpmaJGsw), [2](https://youtu.be/f-anWVehTl0)
 * Лекция 12. Профилировка. Модель физической памяти. [1](https://youtu.be/vJcvvrMWyv4), [2](https://youtu.be/eqcp3GTqUS0)
 * Лекция 13. Компиляция и линковка. [1](https://youtu.be/zq0z7HRQKEM), [2](https://youtu.be/7chdr35ltyU)
+* Лекция 14. Практикум. Ray tracing. [1](https://youtu.be/U9kTGFn0tIM), [2](https://youtu.be/BBH_mnCxBzg)
 
 </p>
 </details>
