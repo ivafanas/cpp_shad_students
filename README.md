@@ -44,6 +44,13 @@ Feel free to use it as you wish.
 * [vector-of-bool](https://vector-of-bool.github.io/)
 * [travisdown](https://travisdowns.github.io/)
 
+### Полезные ссылки
+
+* [godbolt: online compiler](https://godbolt.org/)
+* [quick-bench: быстрая проверка гипотез по скорости исполнения](https://quick-bench.com)
+* [build-bench: быстрая проверка гипотез по скорости компиляции](https://build-bench.com/)
+* [compilation cost of include](https://artificial-mind.net/projects/compile-health/)
+
 ### Конференции
 
 * [CppCon](https://www.youtube.com/user/CppCon). Топовая конференция по С++. Можно (нужно) смотреть записи докладов на ютуб.
