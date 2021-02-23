@@ -119,3 +119,13 @@ Feel free to use it as you wish.
 </p>
 </details>
 
+<details>
+<summary>2021 весна (сем. 2)</summary>
+<p>
+
+* Лекция 1. Разминка. [1](https://youtu.be/WYXHZ_Jlo40), [2](https://youtu.be/5h74kXqBUQw)
+* Лекция 2. Многопоточность. Введение [1](https://youtu.be/3Yii1FeMGjk), [2](https://youtu.be/AecmnCLeyvA)
+
+</p>
+</details>
+
