@@ -126,6 +126,7 @@ Feel free to use it as you wish.
 * Лекция 1. Разминка. [1](https://youtu.be/WYXHZ_Jlo40), [2](https://youtu.be/5h74kXqBUQw)
 * Лекция 2. Многопоточность. Введение [1](https://youtu.be/3Yii1FeMGjk), [2](https://youtu.be/AecmnCLeyvA)
 * Лекция 3. Многопоточность. Продолжение. [1](https://youtu.be/sWu0hu7Kj6Y), [2](https://youtu.be/TLEdoy3oE3M)
+* Лекция 4. Домашнее задание: коммивояжёр. [1](https://youtu.be/EZiMQdjwGhM), [2](https://youtu.be/yRwWPYoGfgU)
 
 </p>
 </details>
