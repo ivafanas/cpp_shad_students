@@ -128,6 +128,7 @@ Feel free to use it as you wish.
 * Лекция 3. Многопоточность. Продолжение. [1](https://youtu.be/sWu0hu7Kj6Y), [2](https://youtu.be/TLEdoy3oE3M)
 * Лекция 4. Домашнее задание: коммивояжёр. [1](https://youtu.be/EZiMQdjwGhM), [2](https://youtu.be/yRwWPYoGfgU)
 * Лекция 5. Многопоточность. Продвинутый материал. [1](https://youtu.be/DzzPnxV5SwM), [2](https://youtu.be/e_aQuNLKuc4)
+* Лекция 6. Move-семантика [1](https://youtu.be/Cmdqxczcxbg), [2](https://youtu.be/GSFCHDP4HhY)
 
 </p>
 </details>
