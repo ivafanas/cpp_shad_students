@@ -131,6 +131,7 @@ Feel free to use it as you wish.
 * Лекция 5. Многопоточность. Основы lock free [1](https://youtu.be/9U7sFPyR1ao), [2](https://youtu.be/g-TfVCh_g-M)
 * Лекция 6. Move-семантика [1](https://youtu.be/Cmdqxczcxbg), [2](https://youtu.be/GSFCHDP4HhY)
 * Лекция 7. Продвинутое использоване шаблонов [1](https://youtu.be/O8UrIj_0rws), [2](https://youtu.be/MVVSMqbIW6g)
+* Лекция 8. Мелкие нововведения стандарта [1](https://youtu.be/5U2oh778um0), [2](https://youtu.be/f10uPcJ8WOk)
 
 </p>
 </details>
