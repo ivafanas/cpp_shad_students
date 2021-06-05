@@ -133,6 +133,7 @@ Feel free to use it as you wish.
 * Лекция 7. Продвинутое использоване шаблонов [1](https://youtu.be/O8UrIj_0rws), [2](https://youtu.be/MVVSMqbIW6g)
 * Лекция 8. Мелкие нововведения стандарта [1](https://youtu.be/5U2oh778um0), [2](https://youtu.be/f10uPcJ8WOk)
 * Лекция 9. Undefined behavior [1](https://youtu.be/LXKWpnmA1GE)
+* Лекция 10. Compile-time вычисления [1](https://youtu.be/8kDavgNjMh0)
 
 </p>
 </details>
