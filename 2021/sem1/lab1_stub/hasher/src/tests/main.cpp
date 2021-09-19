@@ -6,6 +6,3 @@ int main(int argc, char **argv) {
     return RUN_ALL_TESTS();
 }
 
-
-#include "src/gtest-all.cc"
-
