@@ -138,3 +138,13 @@ Feel free to use it as you wish.
 </p>
 </details>
 
+<details>
+<summary>2021 осень (сем. 1)</summary>
+
+<p>
+
+* Лекция 1. Введение. Первая программа. Ввод-вывод. Командная строка. [1](https://youtu.be/esgXskyUUOk), [2](https://youtu.be/VGT5kJuG-r4)
+
+</p>
+</details>
+
