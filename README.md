@@ -145,6 +145,7 @@ Feel free to use it as you wish.
 <p>
 
 * Лекция 1. Введение. Первая программа. Ввод-вывод. Командная строка. [1](https://youtu.be/esgXskyUUOk), [2](https://youtu.be/VGT5kJuG-r4)
+* Лекция 2. Функции. Чтение файла. CMake. Unit-тесты. [1](https://youtu.be/c0rK9o0zj_s), [2](https://youtu.be/R31UZnHDzWg)
 
 </p>
 </details>
