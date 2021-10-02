@@ -146,6 +146,7 @@ Feel free to use it as you wish.
 
 * Лекция 1. Введение. Первая программа. Ввод-вывод. Командная строка. [1](https://youtu.be/esgXskyUUOk), [2](https://youtu.be/VGT5kJuG-r4)
 * Лекция 2. Функции. Чтение файла. CMake. Unit-тесты. [1](https://youtu.be/c0rK9o0zj_s), [2](https://youtu.be/R31UZnHDzWg)
+* Лекция 3. Классы. Определение. Поля и методы. Конструктор, присваивание и деструктор. [1](https://youtu.be/lDeCc1XsLhQ), [2](https://youtu.be/sWHZCmMT05Y)
 
 </p>
 </details>
