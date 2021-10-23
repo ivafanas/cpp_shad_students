@@ -147,6 +147,9 @@ Feel free to use it as you wish.
 * Лекция 1. Введение. Первая программа. Ввод-вывод. Командная строка. [1](https://youtu.be/esgXskyUUOk), [2](https://youtu.be/VGT5kJuG-r4)
 * Лекция 2. Функции. Чтение файла. CMake. Unit-тесты. [1](https://youtu.be/c0rK9o0zj_s), [2](https://youtu.be/R31UZnHDzWg)
 * Лекция 3. Классы. Определение. Поля и методы. Конструктор, присваивание и деструктор. [1](https://youtu.be/lDeCc1XsLhQ), [2](https://youtu.be/sWHZCmMT05Y)
+* Лекция 4. Классы. Наследование. Виртуальные функции. Layout. Дизайн классов. [1](https://youtu.be/9eZ0orz82rc), [2](https://youtu.be/qxZQhUjsaCc)
+* Лекция 5. Шаблоны. [1](https://youtu.be/bJfxHJUMmHM), [2](https://youtu.be/la1E5CiexMo)
+* Лекция 6. Контейнеры и итераторы. [1](https://youtu.be/VZ-jR4lmr-Q), [2](https://youtu.be/JV1fDUYQKqU)
 
 </p>
 </details>
