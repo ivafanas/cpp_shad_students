@@ -150,6 +150,7 @@ Feel free to use it as you wish.
 * Лекция 4. Классы. Наследование. Виртуальные функции. Layout. Дизайн классов. [1](https://youtu.be/9eZ0orz82rc), [2](https://youtu.be/qxZQhUjsaCc)
 * Лекция 5. Шаблоны. [1](https://youtu.be/bJfxHJUMmHM), [2](https://youtu.be/la1E5CiexMo)
 * Лекция 6. Контейнеры и итераторы. [1](https://youtu.be/VZ-jR4lmr-Q), [2](https://youtu.be/JV1fDUYQKqU)
+* Лекция 7. Исключения. [1](https://youtu.be/bCNHty9UOWI), [2](https://youtu.be/GNg5gUNgx6I)
 
 </p>
 </details>
