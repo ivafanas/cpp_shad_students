@@ -151,6 +151,7 @@ Feel free to use it as you wish.
 * Лекция 5. Шаблоны. [1](https://youtu.be/bJfxHJUMmHM), [2](https://youtu.be/la1E5CiexMo)
 * Лекция 6. Контейнеры и итераторы. [1](https://youtu.be/VZ-jR4lmr-Q), [2](https://youtu.be/JV1fDUYQKqU)
 * Лекция 7. Исключения. [1](https://youtu.be/bCNHty9UOWI), [2](https://youtu.be/GNg5gUNgx6I)
+* Лекция 8. Умные указатели. [1](https://youtu.be/uLB5QWxL4VY)
 
 </p>
 </details>
