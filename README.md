@@ -153,6 +153,7 @@ Feel free to use it as you wish.
 * Лекция 7. Исключения. [1](https://youtu.be/bCNHty9UOWI), [2](https://youtu.be/GNg5gUNgx6I)
 * Лекция 8. Умные указатели. [1](https://youtu.be/uLB5QWxL4VY)
 * Лекция 9. Аргументы. RVO / NRVO / Copy elision. [1](https://youtu.be/oZR92n8rWQs), [2](https://youtu.be/eTBSuGhWq58)
+* Лекция 10. Алгоритмы и лямбды. [1](https://youtu.be/7zHkjhpmUHw), [2](https://youtu.be/tzeIYO8gjak)
 
 </p>
 </details>
