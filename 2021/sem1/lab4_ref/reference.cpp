@@ -3,7 +3,6 @@
 #include <cstdint>
 #include <cstdlib>
 #include <cstring>
-#include <deque>
 #include <iostream>
 #include <memory>
 #include <string>
@@ -21,7 +20,7 @@ namespace ref
     }
 
     using ID = std::uint32_t;
-    using Phones = std::deque<std::string>;
+    using Phones = std::vector<std::string>;
 
     struct Filial
     {
