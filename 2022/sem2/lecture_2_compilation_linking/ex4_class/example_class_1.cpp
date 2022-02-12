@@ -2,9 +2,6 @@
 
 class HTMLPrinter {
 public:
-    HTMLPrinter() = default;
-    ~HTMLPrinter() = default;
-
     void p() {
         print("<p>");
     }

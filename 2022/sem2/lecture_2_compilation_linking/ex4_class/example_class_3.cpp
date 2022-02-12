@@ -3,18 +3,12 @@
 namespace {
   class HTMLPrinter {
   public:
-      HTMLPrinter();
-      ~HTMLPrinter();
-
       void p();
       void div();
 
   private:
       void print(const char* s);
   };
-
-  HTMLPrinter::HTMLPrinter() = default;
-  HTMLPrinter::~HTMLPrinter() = default;
 
   void HTMLPrinter::p() {
       print("<p>");
