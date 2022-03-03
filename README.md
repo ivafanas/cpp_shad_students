@@ -159,3 +159,16 @@ Feel free to use it as you wish.
 </p>
 </details>
 
+<details>
+<summary>2022 весна (сам. 2)</summary>
+
+<p>
+
+* Лекция 1. Знакомство. Организационная лекция. Компиляция и линковка. [1](https://youtu.be/0ecnfbp703w), [2](https://youtu.be/HwOS07rwlWw)
+* Лекция 2. Многопоточность. std::thread. promise-future. Эффективность распараллеливания и закон Амдала. [1](https://youtu.be/v76dQsYlvIU), [2](https://youtu.be/4VUdS7YB1T0)
+* Лекция 3. Многопоточность. Race condition. Mutex. Thread-safe объекты. [1](https://youtu.be/yInrk3nQL_s), [2](https://youtu.be/KI-sUsMKNXk)
+
+</p>
+</details>
+
+
