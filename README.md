@@ -167,6 +167,9 @@ Feel free to use it as you wish.
 * Лекция 1. Знакомство. Организационная лекция. Компиляция и линковка. [1](https://youtu.be/0ecnfbp703w), [2](https://youtu.be/HwOS07rwlWw)
 * Лекция 2. Многопоточность. std::thread. promise-future. Эффективность распараллеливания и закон Амдала. [1](https://youtu.be/v76dQsYlvIU), [2](https://youtu.be/4VUdS7YB1T0)
 * Лекция 3. Многопоточность. Race condition. Mutex. Thread-safe объекты. [1](https://youtu.be/yInrk3nQL_s), [2](https://youtu.be/KI-sUsMKNXk)
+* Лекция 4. Многопоточность. Recursive mutex. Shared mutex. Condition variable. Thread local. [1](https://youtu.be/cpn_ebFzpi4), [2](https://youtu.be/pj2LtDcJNoE)
+* Лекция 5. Многопоточность. Atomics. Основы. [1](https://youtu.be/S6p7yNb5A6E), [2](https://youtu.be/gqn5RjFYQMo)
+* Лекция 6. Многопоточность. Spin lock. Hybrid mutex. Lock free. [1](https://youtu.be/9b6nxJJJIJI), [2](https://youtu.be/fac1BkshJmQ)
 
 </p>
 </details>
