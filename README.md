@@ -160,7 +160,7 @@ Feel free to use it as you wish.
 </details>
 
 <details>
-<summary>2022 весна (сам. 2)</summary>
+<summary>2022 весна (сем. 2)</summary>
 
 <p>
 
