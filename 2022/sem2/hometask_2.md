@@ -23,5 +23,5 @@
 
 Прочие замечания:
 
-* `QPixmap` [может не работать](https://doc.qt.io/qt-5/thread-basics.html#gui-thread-and-worker-thread) в фоновых потоках, попробуйте посмотреть в сторону `QImage` ([документация QImage](https://doc.qt.io/qt-5/qimage.html), [документация про работу с QImage в фоновых потоках](https://doc-snapshots.qt.io/qt5-5.9/qtcore-threads-queuedcustomtype-example.html))
+* `QPixmap` [может не работать](https://doc.qt.io/qt-5/thread-basics.html#gui-thread-and-worker-thread) в фоновых потоках, попробуйте посмотреть в сторону `QImage` ([документация QImage](https://doc.qt.io/qt-5/qimage.html), [передача объектов из фоновых потоков в основной](https://doc.qt.io/qt-5/qtcore-threads-queuedcustomtype-example.html))
 
