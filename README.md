@@ -170,6 +170,12 @@ Feel free to use it as you wish.
 * Лекция 4. Многопоточность. Recursive mutex. Shared mutex. Condition variable. Thread local. [1](https://youtu.be/cpn_ebFzpi4), [2](https://youtu.be/pj2LtDcJNoE)
 * Лекция 5. Многопоточность. Atomics. Основы. [1](https://youtu.be/S6p7yNb5A6E), [2](https://youtu.be/gqn5RjFYQMo)
 * Лекция 6. Многопоточность. Spin lock. Hybrid mutex. Lock free. [1](https://youtu.be/9b6nxJJJIJI), [2](https://youtu.be/fac1BkshJmQ)
+* Лекция 7. Move-семантика. [1](https://youtu.be/GbvShkHcNVw), [2](https://youtu.be/1fE3aSughxg)
+* Лекция 8. Продвинутое использование шаблонов. [1](https://youtu.be/_01yztK7ewY), [2](https://youtu.be/E20Cy5Lvl80)
+* Лекция 9. Мелкие нововведения стандарта. [1](https://youtu.be/ouDUSEW0b44)
+* Лекция 10. Compile-time выичсления. [1](https://youtu.be/XfrfL03TEKA)
+* Лекция 11. Undefined behavior. [1](https://youtu.be/SBdRY0Sj8Rw)
+* Лекция 12. Форматирование. Ranges [1](https://youtu.be/jlV6a6HEFUs)
 
 </p>
 </details>
