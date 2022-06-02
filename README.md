@@ -145,60 +145,60 @@ Feel free to use it as you wish.
 <p>
 
 * Лекция 1. Введение. Первая программа. Ввод-вывод. Командная строка.
-  [y1](https://youtu.be/esgXskyUUOk),
-  [y2](https://youtu.be/VGT5kJuG-r4);
-  [r1](https://rutube.ru/video/9c0a4f53fe0aa1e2246a44dbaa37620d/),
-  [r2](https://rutube.ru/video/ae3ca81bf90675eaf843ce4d6f86b429/)
+  [1](https://youtu.be/esgXskyUUOk),
+  [2](https://youtu.be/VGT5kJuG-r4);
+  [1](https://rutube.ru/video/9c0a4f53fe0aa1e2246a44dbaa37620d/),
+  [2](https://rutube.ru/video/ae3ca81bf90675eaf843ce4d6f86b429/)
 * Лекция 2. Функции. Чтение файла. CMake. Unit-тесты.
-  [y1](https://youtu.be/c0rK9o0zj_s),
-  [y2](https://youtu.be/R31UZnHDzWg);
-  [r1](https://rutube.ru/video/589c98a1a9cf78c9fa053e685b326c6e/),
-  [r2](https://rutube.ru/video/59fcdce5b9f31185c49a61c6c5ae2976/)
+  [1](https://youtu.be/c0rK9o0zj_s),
+  [2](https://youtu.be/R31UZnHDzWg);
+  [1](https://rutube.ru/video/589c98a1a9cf78c9fa053e685b326c6e/),
+  [2](https://rutube.ru/video/59fcdce5b9f31185c49a61c6c5ae2976/)
 * Лекция 3. Классы. Определение. Поля и методы. Конструктор, присваивание и деструктор.
-  [y1](https://youtu.be/lDeCc1XsLhQ),
-  [y2](https://youtu.be/sWHZCmMT05Y);
-  [r1](https://rutube.ru/video/cefc156443a246c4c0d6a3acd5dbee24/),
-  [r2](https://rutube.ru/video/5b0cf686111b44ce0006c889e63838ed/)
+  [1](https://youtu.be/lDeCc1XsLhQ),
+  [2](https://youtu.be/sWHZCmMT05Y);
+  [1](https://rutube.ru/video/cefc156443a246c4c0d6a3acd5dbee24/),
+  [2](https://rutube.ru/video/5b0cf686111b44ce0006c889e63838ed/)
 * Лекция 4. Классы. Наследование. Виртуальные функции. Layout. Дизайн классов.
-  [y1](https://youtu.be/9eZ0orz82rc),
-  [y2](https://youtu.be/qxZQhUjsaCc);
-  [r1](https://rutube.ru/video/c97aacf6e84f35c9ec3a662a7b0989b8/),
-  [r2](https://rutube.ru/video/7e6849ab01cb01780d923d0c1dc67873/)
+  [1](https://youtu.be/9eZ0orz82rc),
+  [2](https://youtu.be/qxZQhUjsaCc);
+  [1](https://rutube.ru/video/c97aacf6e84f35c9ec3a662a7b0989b8/),
+  [2](https://rutube.ru/video/7e6849ab01cb01780d923d0c1dc67873/)
 * Лекция 5. Шаблоны.
-  [y1](https://youtu.be/bJfxHJUMmHM),
-  [y2](https://youtu.be/la1E5CiexMo);
-  [r1](https://rutube.ru/video/52fa2db44d9f99ff2787b70aaf1c002a/),
-  [r2](https://rutube.ru/video/adf7b6af5c35b40c7bd3e05321f5d7c2/)
+  [1](https://youtu.be/bJfxHJUMmHM),
+  [2](https://youtu.be/la1E5CiexMo);
+  [1](https://rutube.ru/video/52fa2db44d9f99ff2787b70aaf1c002a/),
+  [2](https://rutube.ru/video/adf7b6af5c35b40c7bd3e05321f5d7c2/)
 * Лекция 6. Контейнеры и итераторы.
-  [y1](https://youtu.be/VZ-jR4lmr-Q),
-  [y2](https://youtu.be/JV1fDUYQKqU);
-  [r1](https://rutube.ru/video/50e6ed057eaa272360ca85e960a87700/),
-  [r2](https://rutube.ru/video/9a49e5b4a1bb0ac227a126c0eda34969/)
+  [1](https://youtu.be/VZ-jR4lmr-Q),
+  [2](https://youtu.be/JV1fDUYQKqU);
+  [1](https://rutube.ru/video/50e6ed057eaa272360ca85e960a87700/),
+  [2](https://rutube.ru/video/9a49e5b4a1bb0ac227a126c0eda34969/)
 * Лекция 7. Исключения.
-  [y1](https://youtu.be/bCNHty9UOWI),
-  [y2](https://youtu.be/GNg5gUNgx6I);
-  [r1](https://rutube.ru/video/d21e95aab00f985071ab558d985c29ed/),
-  [r2](https://rutube.ru/video/756685f45b4dc3d8818de75b5ee1b68e/)
+  [1](https://youtu.be/bCNHty9UOWI),
+  [2](https://youtu.be/GNg5gUNgx6I);
+  [1](https://rutube.ru/video/d21e95aab00f985071ab558d985c29ed/),
+  [2](https://rutube.ru/video/756685f45b4dc3d8818de75b5ee1b68e/)
 * Лекция 8. Умные указатели
-  [yt](https://youtu.be/uLB5QWxL4VY);
-  [rt](https://rutube.ru/video/9a79c0c7f8af7fb6d761802ce0c25fe4/)
+  [t](https://youtu.be/uLB5QWxL4VY);
+  [t](https://rutube.ru/video/9a79c0c7f8af7fb6d761802ce0c25fe4/)
 * Лекция 9. Аргументы. RVO / NRVO / Copy elision.
-  [y1](https://youtu.be/oZR92n8rWQs),
-  [y2](https://youtu.be/eTBSuGhWq58);
-  [r1](https://rutube.ru/video/d23e39c2a87a3320e41ade2fe34e0d7d/),
-  [r2](https://rutube.ru/video/62106993fc6a417ac24735f667116d62/)
+  [1](https://youtu.be/oZR92n8rWQs),
+  [2](https://youtu.be/eTBSuGhWq58);
+  [1](https://rutube.ru/video/d23e39c2a87a3320e41ade2fe34e0d7d/),
+  [2](https://rutube.ru/video/62106993fc6a417ac24735f667116d62/)
 * Лекция 10. Алгоритмы и лямбды.
-  [y1](https://youtu.be/7zHkjhpmUHw),
-  [y2](https://youtu.be/tzeIYO8gjak);
-  [r1](https://rutube.ru/video/b29625a26cb35fb5f3f02fe15ffb95bd/),
-  [r2](https://rutube.ru/video/d6ac98aac103d02f4cbb89f0c9faf30d/)
+  [1](https://youtu.be/7zHkjhpmUHw),
+  [2](https://youtu.be/tzeIYO8gjak);
+  [1](https://rutube.ru/video/b29625a26cb35fb5f3f02fe15ffb95bd/),
+  [2](https://rutube.ru/video/d6ac98aac103d02f4cbb89f0c9faf30d/)
 * Лекция 11. Техники оптимизации.
-  [y1](https://youtu.be/Z5KZ-lWz5kk),
-  [y2](https://youtu.be/DFAkWpeyKxQ);
-  [r1](https://rutube.ru/video/b0bd0d88c7f279a13474d52601c1791b/),
-  [r2](https://rutube.ru/video/622798c4d95f7ff2d956af511466fbc0/)
+  [1](https://youtu.be/Z5KZ-lWz5kk),
+  [2](https://youtu.be/DFAkWpeyKxQ);
+  [1](https://rutube.ru/video/b0bd0d88c7f279a13474d52601c1791b/),
+  [2](https://rutube.ru/video/622798c4d95f7ff2d956af511466fbc0/)
 * Лекция 12. Профилировка. Модель физической памяти.
-  [rt](https://rutube.ru/video/44275e4af4f7fa9f87902b207f89d6af/)
+  [r](https://rutube.ru/video/44275e4af4f7fa9f87902b207f89d6af/)
 
 </p>
 </details>
@@ -209,45 +209,45 @@ Feel free to use it as you wish.
 <p>
 
 * Лекция 1. Знакомство. Организационная лекция. Компиляция и линковка.
-  [y1](https://youtu.be/0ecnfbp703w),
-  [y2](https://youtu.be/HwOS07rwlWw);
-  [r1](https://rutube.ru/video/21c43c22b43aee01559a7b68ff0d68ec/),
-  [r2](https://rutube.ru/video/62ef26664386ef999dff7afbe9d71ba8/)
+  [1](https://youtu.be/0ecnfbp703w),
+  [2](https://youtu.be/HwOS07rwlWw);
+  [1](https://rutube.ru/video/21c43c22b43aee01559a7b68ff0d68ec/),
+  [2](https://rutube.ru/video/62ef26664386ef999dff7afbe9d71ba8/)
 * Лекция 2. Многопоточность. std::thread. promise-future. Эффективность распараллеливания и закон Амдала.
-  [y1](https://youtu.be/v76dQsYlvIU),
-  [y2](https://youtu.be/4VUdS7YB1T0);
-  [r1](https://rutube.ru/video/d2ab048d80bba8ed16a1ccd38437ce3e/),
-  [r2](https://rutube.ru/video/3c9e02c16fc354086e9212ebab6f235c/)
+  [1](https://youtu.be/v76dQsYlvIU),
+  [2](https://youtu.be/4VUdS7YB1T0);
+  [1](https://rutube.ru/video/d2ab048d80bba8ed16a1ccd38437ce3e/),
+  [2](https://rutube.ru/video/3c9e02c16fc354086e9212ebab6f235c/)
 * Лекция 3. Многопоточность. Race condition. Mutex. Thread-safe объекты
-  [y1](https://youtu.be/yInrk3nQL_s),
-  [y2](https://youtu.be/KI-sUsMKNXk);
-  [r1](https://rutube.ru/video/9b84742e3424c025dd073327cfa0646a/),
-  [r2](https://rutube.ru/video/e7b176352a352eb8d67f18df8af8ab12/)
+  [1](https://youtu.be/yInrk3nQL_s),
+  [2](https://youtu.be/KI-sUsMKNXk);
+  [1](https://rutube.ru/video/9b84742e3424c025dd073327cfa0646a/),
+  [2](https://rutube.ru/video/e7b176352a352eb8d67f18df8af8ab12/)
 * Лекция 4. Многопоточность. Recursive mutex. Shared mutex. Condition variable. Thread local.
-  [y1](https://youtu.be/cpn_ebFzpi4),
-  [y2](https://youtu.be/pj2LtDcJNoE);
-  [r1](https://rutube.ru/video/7e121903871e553865b8cdcc467019d0/),
-  [r2](https://rutube.ru/video/b02e5a23a1f4cab684f353e0787c401b/)
+  [1](https://youtu.be/cpn_ebFzpi4),
+  [2](https://youtu.be/pj2LtDcJNoE);
+  [1](https://rutube.ru/video/7e121903871e553865b8cdcc467019d0/),
+  [2](https://rutube.ru/video/b02e5a23a1f4cab684f353e0787c401b/)
 * Лекция 5. Многопоточность. Atomics. Основы.
-  [y1](https://youtu.be/S6p7yNb5A6E),
-  [y2](https://youtu.be/gqn5RjFYQMo);
-  [r1](https://rutube.ru/video/718d949120f7a3eb52e3035cdbe59186/),
-  [r2](https://rutube.ru/video/1361096d7f0770919e40f66640ce1165/)
+  [1](https://youtu.be/S6p7yNb5A6E),
+  [2](https://youtu.be/gqn5RjFYQMo);
+  [1](https://rutube.ru/video/718d949120f7a3eb52e3035cdbe59186/),
+  [2](https://rutube.ru/video/1361096d7f0770919e40f66640ce1165/)
 * Лекция 6. Многопоточность. Spin lock. Hybrid mutex. Lock free
-  [y1](https://youtu.be/9b6nxJJJIJI),
-  [y2](https://youtu.be/fac1BkshJmQ);
-  [r1](https://rutube.ru/video/280e3bdcdef43c8f2f58edf97b240506/),
-  [r2](https://rutube.ru/video/c1eb8bddce32d30da168e8610efa1191/)
+  [1](https://youtu.be/9b6nxJJJIJI),
+  [2](https://youtu.be/fac1BkshJmQ);
+  [1](https://rutube.ru/video/280e3bdcdef43c8f2f58edf97b240506/),
+  [2](https://rutube.ru/video/c1eb8bddce32d30da168e8610efa1191/)
 * Лекция 7. Move-семантика.
-  [y1](https://youtu.be/GbvShkHcNVw),
-  [y2](https://youtu.be/1fE3aSughxg);
-  [r1](https://rutube.ru/video/cca1e5a94a3b77ca05f4443bd7cb34de/),
-  [r2](https://rutube.ru/video/9a26df531958b194f2e5dbe733e5d31c/)
+  [1](https://youtu.be/GbvShkHcNVw),
+  [2](https://youtu.be/1fE3aSughxg);
+  [1](https://rutube.ru/video/cca1e5a94a3b77ca05f4443bd7cb34de/),
+  [2](https://rutube.ru/video/9a26df531958b194f2e5dbe733e5d31c/)
 * Лекция 8. Продвинутое использование шаблонов.
-  [y1](https://youtu.be/_01yztK7ewY),
-  [y2](https://youtu.be/E20Cy5Lvl80);
-  [r1](https://rutube.ru/video/d2aa597f9e89795d5a468cfce3f85def/),
-  [r2](https://rutube.ru/video/e361f27e73f101365503ea045ecddd19/)
+  [1](https://youtu.be/_01yztK7ewY),
+  [2](https://youtu.be/E20Cy5Lvl80);
+  [1](https://rutube.ru/video/d2aa597f9e89795d5a468cfce3f85def/),
+  [2](https://rutube.ru/video/e361f27e73f101365503ea045ecddd19/)
 * Лекция 9. Мелкие нововведения стандарта.
   [y](https://youtu.be/ouDUSEW0b44);
   [r](https://rutube.ru/video/94b3cf9eac54b770c0fdd8efd3e86297/)
