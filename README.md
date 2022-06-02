@@ -180,8 +180,8 @@ Feel free to use it as you wish.
   [1](https://rutube.ru/video/d21e95aab00f985071ab558d985c29ed/),
   [2](https://rutube.ru/video/756685f45b4dc3d8818de75b5ee1b68e/)
 * Лекция 8. Умные указатели
-  [t](https://youtu.be/uLB5QWxL4VY);
-  [t](https://rutube.ru/video/9a79c0c7f8af7fb6d761802ce0c25fe4/)
+  [y](https://youtu.be/uLB5QWxL4VY);
+  [r](https://rutube.ru/video/9a79c0c7f8af7fb6d761802ce0c25fe4/)
 * Лекция 9. Аргументы. RVO / NRVO / Copy elision.
   [1](https://youtu.be/oZR92n8rWQs),
   [2](https://youtu.be/eTBSuGhWq58);
