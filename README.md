@@ -264,4 +264,12 @@ Feel free to use it as you wish.
 </p>
 </details>
 
+<details>
+<summary>2022 осень (сем. 1) (запись не ведётся)</summary>
+<p> - </p>
+</details>
 
+<details>
+<summary>2023 весна (сем. 2) (запись не ведётся)</summary>
+<p> - </p>
+</details>
