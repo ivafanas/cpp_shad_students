@@ -1,0 +1,2 @@
+create_rectangle 5 9 9 9 0.0 5.0 5.0 5.0
+render rectangle.ppm 0.0 0.0 10.0 10.0 4 4
