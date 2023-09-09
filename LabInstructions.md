@@ -6,7 +6,7 @@
 
 Сразу после создания репозитория на GitLab, требуется закрыть ветку master для прямых пушей ([о том, как это сделать](https://docs.gitlab.com/ee/user/project/protected_branches.html)). Выставляете для этой ветки следующие настройки:
 
-* `Branch: master`
+* `Branch: master` (или `main`)
 * `Allowed to merge: Developers + Maintainers`
 * `Allowed to push: No One`
 
@@ -19,6 +19,31 @@
 Под каждую лабораторную работу в директории репозитория заводится отдельная директория. Формат именования: `Lab[N]` (например: `Lab1`)
 
 Наличие исходного кода внешних зависимостей (таких, как дополнительных библиотек, например `GoogleTest`) в merge request’ах не допускается.
+
+#### Прогон приёмочных тестов.
+
+Инструкции по запуску приёмочных тестов можно найти в папке задания в docker/README.md. В общем они сводятся к следующему:
+
+* Установить docker, если ещё не.
+
+* Собрать контейнер с инструментами:
+
+  ```
+  docker build -t cpp_shad_testing/cpp_shad_testing:1.0 -f Dockerfile .
+  ```
+
+* Запустить контейнер:
+
+  ```
+  docker run -it --rm --name=cpp_shad_testing --mount type=bind,source="${PWD}/..",target=/src cpp_shad_testing/cpp_shad_testing:1.0 bash
+  ```
+
+* В контейнере запустить тесты:
+
+  ```
+  cd /src/docker
+  python3 run_tests.py
+  ```
 
 #### Работа с ревью на Gitlab
 
