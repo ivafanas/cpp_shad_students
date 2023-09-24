@@ -10,7 +10,7 @@
 * `Allowed to merge: Developers + Maintainers`
 * `Allowed to push: No One`
 
-Также, следует добавить пользователей `ivafanas`, `Emorth` в репозиторий как разработчиков ([о том, как это сделать](https://docs.gitlab.com/ee/user/project/members/)); Project Access установить в Developer)
+Также, следует добавить пользователей `ivafanas`, `Emorth`, `GraphGiraffe`, `snow.ii` в репозиторий как разработчиков ([о том, как это сделать](https://docs.gitlab.com/ee/user/project/members/)); Project Access установить в Developer)
 
 Разработка каждой лабораторной работы ведётся в отдельной ветке, формат именования которой: `task-lab[N]-[lab-name]` (например: `task-lab1-caesar-crypt`). Лабораторная работа оценивается исходя из кода, содержащимся в мастере. Итоговый код попадает в мастер только после прохождения ревью. Информацию о работе с ревью вы можете найти в соответствующей главе.
 
