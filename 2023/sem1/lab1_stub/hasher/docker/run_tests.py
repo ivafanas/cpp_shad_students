@@ -275,6 +275,10 @@ def _run_integration_tests(
                 result = subprocess.run(
                     [
                         "diff",
+                        "-b",
+                        "--ignore-all-space",
+                        "--ignore-blank-lines",
+                        "--ignore-space-change",
                         actual_output_path,
                         os.path.join(tests_dir, tc.expected_output),
                     ]

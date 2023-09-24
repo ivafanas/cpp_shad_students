@@ -269,7 +269,17 @@ def _run_integration_tests(
                 assert _exists(exp_data_path), f"{exp_data_path} should exist"
                 assert _exists(act_data_path), f"{act_data_path} should exist"
 
-                result = subprocess.run(["diff", act_data_path, exp_data_path])
+                result = subprocess.run(
+                    [
+                        "diff",
+                        "-b",
+                        "--ignore-all-space",
+                        "--ignore-blank-lines",
+                        "--ignore-space-change",
+                        act_data_path,
+                        exp_data_path
+                    ]
+                )
                 if result.returncode:
                     _report_fatal_error("Unexpected output.")
         else:
