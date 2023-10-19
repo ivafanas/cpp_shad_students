@@ -322,6 +322,11 @@ def _check_format():
             _report_fatal_error(f"Run clang-format on {f}")
 
 
+def _cleanup(cfg: TestingConfiguration) -> None:
+    if os.path.exists(cfg.build_dir):
+        shutil.rmtree(cfg.build_dir)
+
+
 def _main():
     _check_format()
 
@@ -340,6 +345,9 @@ def _main():
         _run_integration_tests(cfg, integration_test_cases)
 
     # TODO: launch valgrind
+
+    for cfg in configurations:
+        _cleanup(cfg)
 
 
 if __name__ == "__main__":
