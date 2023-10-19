@@ -352,6 +352,8 @@ def _main():
     for cfg in configurations:
         _cleanup(cfg)
 
+    print("\nSuccess")
+
 
 if __name__ == "__main__":
     _main()
