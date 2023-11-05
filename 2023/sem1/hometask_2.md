@@ -43,3 +43,8 @@ https://github.com/ivafanas/cpp_shad_students/tree/master/2023/sem1/lab2_stub
 * Формализованные требования к random access iterator:
 http://www.cplusplus.com/reference/iterator/RandomAccessIterator/
 
+Замечания для следующего года:
+
+* Добавить требование и тест на то, что `det` не должна компилироваться для матриц неподдерживаемого размера
+* Добавить тест на существование `num_rows`, `num_cols`, `num_values`
+* Добавить тест на moved-from значение (много ошибок у студентов в этом сценарии)
