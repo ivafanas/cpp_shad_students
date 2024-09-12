@@ -273,3 +273,8 @@ Feel free to use it as you wish.
 <summary>2023 весна (сем. 2) (запись не ведётся)</summary>
 <p> - </p>
 </details>
+
+<details>
+<summary>2024 осень (сем. 1) (запись не ведётся)</summary>
+<p> - </p>
+</details>
