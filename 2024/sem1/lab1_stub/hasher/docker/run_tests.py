@@ -49,8 +49,8 @@ class TestingConfiguration:
 
 
 __TOOL_SETS = [
-    ToolSet(name="gcc_12", cpp_compiler="g++-12", c_compiler="gcc-12"),
-    ToolSet(name="clang_15", cpp_compiler="clang++-15", c_compiler="clang-15"),
+    ToolSet(name="gcc_14", cpp_compiler="g++-14", c_compiler="gcc-14"),
+    ToolSet(name="clang_18", cpp_compiler="clang++-18", c_compiler="clang-18"),
 ]
 
 
@@ -300,7 +300,7 @@ def _run_static_analyzers(configurations: List[TestingConfiguration]):
     # TODO: launch clang-tidy
     # for cfg in configurations:
     #     print(f"\nRun clang-tidy for {cfg.build_dir}")
-    #     result = subprocess.run(["clang-tidy-15", "-p", cfg.build_dir, "**/*.cpp"])
+    #     result = subprocess.run(["clang-tidy-18", "-p", cfg.build_dir, "**/*.cpp"])
     #     if result.returncode:
     #         _report_fatal_error('clang-tidy has detected several issues.')
 
@@ -318,7 +318,7 @@ def _check_format():
     )
     for f in files:
         print(f"Check {f}")
-        if subprocess.run(["clang-format-15", f, "--dry-run", "-Werror"]).returncode:
+        if subprocess.run(["clang-format-18", f, "--dry-run", "-Werror"]).returncode:
             _report_fatal_error(f"Run clang-format on {f}")
 
 
@@ -354,3 +354,4 @@ def _main():
 
 if __name__ == "__main__":
     _main()
+

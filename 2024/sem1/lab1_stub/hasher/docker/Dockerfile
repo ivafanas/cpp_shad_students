@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM ubuntu:24.04
 
 ARG DEBIAN_FRONTEND=noninteractive
 
@@ -12,13 +12,14 @@ RUN sed -i "s|http://archive.ubuntu.com|${apt_archive}|g" /etc/apt/sources.list 
           ca-certificates \
           wget \
           git \
-          gcc-12 \
-          g++-12 \
-          clang-15 \
-          libc++-15-dev \
-          libc++abi-15-dev \
-          clang-format-15 \
-          clang-tidy-15 \
+          gcc-14 \
+          g++-14 \
+          clang-18 \
+          libc++-18-dev \
+          libc++abi-18-dev \
+          libclang-rt-18-dev \
+          clang-format-18 \
+          clang-tidy-18 \
           cmake \
           cppcheck \
           ninja-build \
@@ -30,8 +31,7 @@ RUN sed -i "s|http://archive.ubuntu.com|${apt_archive}|g" /etc/apt/sources.list 
     && cd ~ \
     && git clone https://github.com/google/googletest.git \
     && cd googletest && mkdir build && cd build \
-    && CC=clang-15 CXX=clang++-15 cmake -G Ninja -DCMAKE_BUILD_TYPE=Release .. \
+    && CC=clang-18 CXX=clang++-18 cmake -G Ninja -DCMAKE_BUILD_TYPE=Release .. \
     && cmake --build . --target install \
     && cd .. && cd .. && rm -rf googletest
-
 
