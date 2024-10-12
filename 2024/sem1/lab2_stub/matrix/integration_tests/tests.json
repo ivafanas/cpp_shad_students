@@ -1,5 +1,9 @@
 [
   {
+    "source": "non_sqr_det_is_prohibited.cpp",
+    "is_positive": false
+  },
+  {
     "source": "find_max_value.cpp"
   },
   {
