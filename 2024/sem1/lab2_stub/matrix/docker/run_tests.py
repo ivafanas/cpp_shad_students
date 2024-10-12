@@ -49,8 +49,8 @@ class TestingConfiguration:
 
 
 __TOOL_SETS = [
-    ToolSet(name="gcc_12", cpp_compiler="g++-12", c_compiler="gcc-12"),
-    ToolSet(name="clang_15", cpp_compiler="clang++-15", c_compiler="clang-15"),
+    ToolSet(name="gcc_14", cpp_compiler="g++-14", c_compiler="gcc-14"),
+    ToolSet(name="clang_18", cpp_compiler="clang++-18", c_compiler="clang-18"),
 ]
 
 
@@ -321,7 +321,7 @@ def _check_format():
     )
     for f in files:
         print(f"Check {f}")
-        if subprocess.run(["clang-format-15", f, "--dry-run", "-Werror"]).returncode:
+        if subprocess.run(["clang-format-18", f, "--dry-run", "-Werror"]).returncode:
             _report_fatal_error(f"Run clang-format on {f}")
 
 
