@@ -1,0 +1,4 @@
+create_rectangle 1 9 9 9 0.0 4.0 4.0 4.0
+create_rectangle 2 8 8 8 0.0 0.0 6.0 6.0
+bring_to_back 2
+render bring_to_back.ppm 0.0 0.0 8.0 8.0 4 4
