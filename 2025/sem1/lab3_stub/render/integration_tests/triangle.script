@@ -1,0 +1,2 @@
+create_triangle 5 9 9 9 0.0 0.0 10.0 10.0
+render triangle.ppm 0.0 0.0 10.0 10.0 4 4
