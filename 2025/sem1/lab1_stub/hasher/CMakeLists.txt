@@ -106,3 +106,11 @@ else()
 
 endif()
 
+#
+# integration_tests target
+#
+add_custom_target(integration_tests
+    COMMAND bash ${CMAKE_SOURCE_DIR}/run_integration_tests.sh
+    WORKING_DIRECTORY ${CMAKE_SOURCE_DIR}
+    COMMENT "Run integration tests"
+)

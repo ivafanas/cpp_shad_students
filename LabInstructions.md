@@ -22,28 +22,39 @@
 
 #### Прогон приёмочных тестов.
 
-Инструкции по запуску приёмочных тестов можно найти в папке задания в docker/README.md. В общем они сводятся к следующему:
+Инструкции по запуску приёмочных тестов можно найти в папке задания в docker/README.md. Для запуска интеграционных тестов понадобится установить docker.
 
-* Установить docker, если ещё не.
+Для счастливых обладателей ОС Linux можно пользоваться сокращённым способом запуска из cmake:
+
+```bash
+# Create build directory as usual (example for hasher hometask)
+cmake -S hasher -B hasher.build -G Ninja
+
+# Run integration tests
+cmake --build hasher.build --target integration_tests
+```
+
+Ручной способ запуска интеграционных тестов:
 
 * Собрать контейнер с инструментами:
 
-  ```
+  ```bash
   docker build -t cpp_shad_testing/cpp_shad_testing:1.0 -f Dockerfile .
   ```
 
 * Запустить контейнер:
 
-  ```
+  ```bash
   docker run -it --rm --name=cpp_shad_testing --mount type=bind,source="${PWD}/..",target=/src cpp_shad_testing/cpp_shad_testing:1.0 bash
   ```
 
 * В контейнере запустить тесты:
 
-  ```
+  ```bash
   cd /src/docker
   python3 run_tests.py
   ```
+
 
 #### Работа с ревью на Gitlab
 
