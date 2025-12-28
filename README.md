@@ -30,6 +30,7 @@ Feel free to use it as you wish.
 * Andrei Alexandrescu. "Modern C++ Design: Generic Programming and Design Patterns Applied". Трюки с шаблонами С++.
 * [Optimizing software in C++. An optimization guide for Windows, Linux, and Mac platforms](https://www.agner.org/optimize/optimizing_cpp.pdf). Про оптимизации от языка до инструкций.
 * Антон Полухин. "Разработка приложений на С++ с использованием Boost". Обзор boost - объёмного набора С++ библиотек хорошего качества для самых разных нужд.
+* ["Performance Analysis and Tuning on Modern CPUs" by Denis Bakhvalov, et al.](https://github.com/dendibakh/perf-book). Про анализ производительности и тюнинг программ.
 
 ### Блоги/подкасты/новости
 
