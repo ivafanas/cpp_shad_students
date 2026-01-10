@@ -36,6 +36,7 @@ Feel free to use it as you wish.
 
 * [isocpp.org/blog](https://isocpp.org/blog)
 * [Оформить подписку на libhunt](https://cpp.libhunt.com/) в рассылках еженедельно приходит подборка свеженького по С++
+* [Arthur O'Dwyer. Stuff mostly about C++](https://quuxplusone.github.io/blog/)
 * [Reddit c++](https://www.reddit.com/r/cpp/)
 * [Jason Turner: c++ weekly videos](https://www.youtube.com/channel/UCxHAlbZQNFU2LgEtiqd2Maw)
 * [Herb Sutter](https://herbsutter.com/gotw/)
