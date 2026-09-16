@@ -1,0 +1,170 @@
+[
+  {
+    "scenario": "Non existing file",
+    "args": "non_existing_file -m crc32",
+    "is_positive": false
+  },
+  {
+    "scenario": "Mode is not specified",
+    "args": "empty.in",
+    "is_positive": false
+  },
+  {
+    "scenario": "Incorrect mode",
+    "args": "empty.in -m base64",
+    "is_positive": false
+  },
+  {
+    "scenario": "Mode switch without mode identifier",
+    "args": "empty.in -m",
+    "is_positive": false
+  },
+  {
+    "scenario": "File is not specified",
+    "args": "-m crc32",
+    "is_positive": false
+  },
+  {
+    "scenario": "Several modes",
+    "args": "empty.in -m crc32 -m sum32",
+    "is_positive": false
+  },
+  {
+    "scenario": "Too many arguments",
+    "args": "empty.in -m crc32 -f",
+    "is_positive": false
+  },
+
+  {
+    "scenario": "Print help",
+    "args": "-h"
+  },
+  {
+    "scenario": "Too many arguments in help",
+    "args": "-h -f",
+    "is_positive": false
+  },
+
+  {
+    "scenario": "CRC32 1 byte file",
+    "args": "size1.in -m crc32",
+    "expected_output": "size1.crc32.out"
+  },
+  {
+    "scenario": "CRC32 2 bytes file",
+    "args": "size2.in -m crc32",
+    "expected_output": "size2.crc32.out"
+  },
+  {
+    "scenario": "CRC32 3 bytes file",
+    "args": "size3.in -m crc32",
+    "expected_output": "size3.crc32.out"
+  },
+  {
+    "scenario": "CRC32 4 bytes file",
+    "args": "size4.in -m crc32",
+    "expected_output": "size4.crc32.out"
+  },
+  {
+    "scenario": "CRC32 5 bytes file",
+    "args": "size5.in -m crc32",
+    "expected_output": "size5.crc32.out"
+  },
+  {
+    "scenario": "CRC32 6 bytes file",
+    "args": "size6.in -m crc32",
+    "expected_output": "size6.crc32.out"
+  },
+  {
+    "scenario": "CRC32 7 bytes file",
+    "args": "size7.in -m crc32",
+    "expected_output": "size7.crc32.out"
+  },
+  {
+    "scenario": "CRC32 8 bytes file",
+    "args": "size8.in -m crc32",
+    "expected_output": "size8.crc32.out"
+  },
+  {
+    "scenario": "CRC32 9 bytes file",
+    "args": "size9.in -m crc32",
+    "expected_output": "size9.crc32.out"
+  },
+  {
+    "scenario": "CRC32 song",
+    "args": "song.in -m crc32",
+    "expected_output": "song.crc32.out"
+  },
+  {
+    "scenario": "CRC32 on ascii extensions",
+    "args": "ascii_ext.in -m crc32",
+    "expected_output": "ascii_ext.crc32.out"
+  },
+
+  {
+    "scenario": "SUM32 1 byte file",
+    "args": "size1.in -m sum32",
+    "expected_output": "size1.sum32.out"
+  },
+  {
+    "scenario": "SUM32 2 byte file",
+    "args": "size2.in -m sum32",
+    "expected_output": "size2.sum32.out"
+  },
+  {
+    "scenario": "SUM32 3 byte file",
+    "args": "size3.in -m sum32",
+    "expected_output": "size3.sum32.out"
+  },
+  {
+    "scenario": "SUM32 4 byte file",
+    "args": "size4.in -m sum32",
+    "expected_output": "size4.sum32.out"
+  },
+  {
+    "scenario": "SUM32 5 byte file",
+    "args": "size5.in -m sum32",
+    "expected_output": "size5.sum32.out"
+  },
+  {
+    "scenario": "SUM32 6 byte file",
+    "args": "size6.in -m sum32",
+    "expected_output": "size6.sum32.out"
+  },
+  {
+    "scenario": "SUM32 7 byte file",
+    "args": "size7.in -m sum32",
+    "expected_output": "size7.sum32.out"
+  },
+  {
+    "scenario": "SUM32 8 byte file",
+    "args": "size8.in -m sum32",
+    "expected_output": "size8.sum32.out"
+  },
+  {
+    "scenario": "SUM32 9 byte file",
+    "args": "size9.in -m sum32",
+    "expected_output": "size9.sum32.out"
+  },
+  {
+    "scenario": "SUM32 song",
+    "args": "song.in -m sum32",
+    "expected_output": "song.sum32.out"
+  },
+  {
+    "scenario": "SUM32 on ascii extensions",
+    "args": "ascii_ext.in -m sum32",
+    "expected_output": "ascii_ext.sum32.out"
+  },
+
+  {
+    "scenario": "CRC32 reversed arguments order",
+    "args": "-m crc32 size1.in",
+    "expected_output": "size1.crc32.out"
+  },
+  {
+    "scenario": "SUM32 reversed arguments order",
+    "args": "-m sum32 size1.in",
+    "expected_output": "size1.sum32.out"
+  }
+]
