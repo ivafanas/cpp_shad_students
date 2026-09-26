@@ -58,7 +58,7 @@ cmake --build hasher.build --target integration_tests
 
 #### Работа с ревью на Gitlab
 
-Для того, чтобы у проверяющих была возможность провести ревью вашего кода, вам потребуется создать т.н. Merge Request из вашей рабочей ветки (`task-lab[N]-[lab-name]`) в `master` ([о том, как это сделать](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html)). Merge request назначайте на `ivafanas`.
+Для того, чтобы у проверяющих была возможность провести ревью вашего кода, вам потребуется создать т.н. Merge Request из вашей рабочей ветки (`task-lab[N]-[lab-name]`) в `master` ([о том, как это сделать](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html)). Merge request назначайте на `ivafanas`, в ревью добавляйте (можно тэгнуть в комментарии) `v.stepanyuk` и `alexey.novixov`.
 
 После этого, проверяющие либо одобрят ваш Merge Request, либо оставят какие-либо комментарии к коду для исправления.
 
