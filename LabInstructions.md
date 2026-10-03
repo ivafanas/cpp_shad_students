@@ -10,7 +10,7 @@
 * `Allowed to merge: Developers + Maintainers`
 * `Allowed to push: No One`
 
-Также, следует добавить пользователей `ivafanas`, `Emorh` и `v.stepanyuk` в репозиторий как разработчиков ([о том, как это сделать](https://docs.gitlab.com/ee/user/project/members/)); Project Access установить в Developer)
+Также, следует добавить пользователей `ivafanas`, `alexey.novixov` и `v.stepanyuk` в репозиторий как разработчиков ([о том, как это сделать](https://docs.gitlab.com/ee/user/project/members/)); Project Access установить в Developer)
 
 Разработка каждой лабораторной работы ведётся в отдельной ветке, формат именования которой: `task-lab[N]-[lab-name]` (например: `task-lab1-caesar-crypt`). Лабораторная работа оценивается исходя из кода, содержащимся в мастере. Итоговый код попадает в мастер только после прохождения ревью. Информацию о работе с ревью вы можете найти в соответствующей главе.
 
@@ -58,7 +58,7 @@ cmake --build hasher.build --target integration_tests
 
 #### Работа с ревью на Gitlab
 
-Для того, чтобы у проверяющих была возможность провести ревью вашего кода, вам потребуется создать т.н. Merge Request из вашей рабочей ветки (`task-lab[N]-[lab-name]`) в `master` ([о том, как это сделать](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html)). Merge request назначайте на `ivafanas`, в ревью добавляйте (можно тэгнуть в комментарии) `v.stepanyuk` и `alexey.novixov`.
+Для того, чтобы у проверяющих была возможность провести ревью вашего кода, вам потребуется создать т.н. Merge Request из вашей рабочей ветки (`task-lab[N]-[lab-name]`) в `master` ([о том, как это сделать](https://docs.gitlab.com/ee/gitlab-basics/add-merge-request.html)). Проверяющих добавить в ревью (можно тэгнуть в комментарии).
 
 После этого, проверяющие либо одобрят ваш Merge Request, либо оставят какие-либо комментарии к коду для исправления.
 
