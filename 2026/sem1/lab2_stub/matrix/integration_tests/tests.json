@@ -1,0 +1,46 @@
+[
+  {
+    "source": "non_sqr_det_is_prohibited.cpp",
+    "is_positive": false
+  },
+  {
+    "source": "find_max_value.cpp"
+  },
+  {
+    "source": "dump.cpp"
+  },
+  {
+    "source": "inverse_matrix.cpp"
+  },
+  {
+    "source": "linear_function_on_matrix.cpp"
+  },
+  {
+    "source": "unsigned_type_is_not_allowed.cpp",
+    "is_positive": false
+  },
+  {
+    "source": "negative_rows_count_is_not_allowed.cpp",
+    "is_positive": false
+  },
+  {
+    "source": "negative_cols_count_is_not_allowed.cpp",
+    "is_positive": false
+  },
+  {
+    "source": "matrix_mul_dim_mismatch.cpp",
+    "is_positive": false
+  },
+  {
+    "source": "moved_from_value.cpp"
+  },
+  {
+    "source": "num_cols.cpp"
+  },
+  {
+    "source": "num_rows.cpp"
+  },
+  {
+    "source": "num_values.cpp"
+  }
+]
