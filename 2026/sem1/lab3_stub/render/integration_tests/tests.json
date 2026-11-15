@@ -1,0 +1,142 @@
+[
+  {
+    "scenario": "error_create_existing_id.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_negative_id.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_color_r_out_of_range.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_color_g_out_of_range.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_color_b_out_of_range.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_circle_negative_radius.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_rectangle_negative_w.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_rectangle_negative_h.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_square_negative_side.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_triangle_negative_a.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_triangle_negative_b.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_delete_not_existing_id.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_set_color_not_existing_id.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_move_not_existing_id.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_scale_not_existing_id.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_bring_to_back_not_existing_id.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_bring_to_front_not_existing_id.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_render_negative_scene_w.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_render_negative_scene_h.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_render_negative_width.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_render_negative_height.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_circle_too_many_arguments.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_create_circle_not_enough_arguments.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "error_string_arg_instead_of_number.script",
+    "is_positive": false
+  },
+  {
+    "scenario": "background_color.script",
+    "expected_output": "background_color.ppm"
+  },
+  {
+    "scenario": "triangle.script",
+    "expected_output": "triangle.ppm"
+  },
+  {
+    "scenario": "rectangle.script",
+    "expected_output": "rectangle.ppm"
+  },
+  {
+    "scenario": "square.script",
+    "expected_output": "square.ppm"
+  },
+  {
+    "scenario": "circle.script",
+    "expected_output": "circle.ppm"
+  },
+  {
+    "scenario": "move.script",
+    "expected_output": "move.ppm"
+  },
+  {
+    "scenario": "scale.script",
+    "expected_output": "scale.ppm"
+  },
+  {
+    "scenario": "set_color.script",
+    "expected_output": "set_color.ppm"
+  },
+  {
+    "scenario": "bring_to_back.script",
+    "expected_output": "bring_to_back.ppm"
+  },
+  {
+    "scenario": "bring_to_front.script",
+    "expected_output": "bring_to_front.ppm"
+  },
+  {
+    "scenario": "delete.script",
+    "expected_output": "delete.ppm"
+  }
+]
